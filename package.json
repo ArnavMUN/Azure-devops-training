@@ -1,0 +1,19 @@
+{
+    "name": "openai-function-agent-development",
+    "version": "1.0.0",
+    "description": "OpenAI Functions Agent Development Example",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "dotenv": "^17.2.1",
+        "express": "^5.1.0",
+        "node-fetch": "^3.3.2",
+        "openai": "^4.0.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
